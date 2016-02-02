@@ -9,7 +9,7 @@ This preset combines both react and es2015 to one preset.
 Installation
 ------
 ```
-npm i --save babel-preset-react-es2015
+npm i --save-dev babel-preset-react-es2015
 ```
 
 Usage
