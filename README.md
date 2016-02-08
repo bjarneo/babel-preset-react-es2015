@@ -23,7 +23,7 @@ Usage
 
 Version used
 ------
-^6.3.13
+^6.5.0
 
 Readme for es2015 and react preset
 ------
