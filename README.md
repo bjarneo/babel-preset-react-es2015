@@ -23,7 +23,8 @@ Usage
 
 Version used
 ------
-^6.5.0
+* babel-preset-react 6.5.0
+* babel-preset-es2015 6.6.0
 
 Readme for es2015 and react preset
 ------
